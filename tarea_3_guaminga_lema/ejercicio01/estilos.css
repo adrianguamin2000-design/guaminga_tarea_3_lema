@@ -1,0 +1,17 @@
+body{
+    font-family:Arial;
+    text-align:center;
+    margin-top:100px;
+}
+
+.submenu{
+    display:none;
+}
+
+.submenu a{
+    display:block;
+    padding:10px;
+    background:#007BFF;
+    color:white;
+    text-decoration:none;
+}
